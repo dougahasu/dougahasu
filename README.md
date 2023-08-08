@@ -1,7 +1,7 @@
 ## Olá, bem vindo ao meu mundo no GIT
-## Me chamo __Douglas__
+## Me chamo Douglas
 
-🔭 Atualmento sou Analista de Sistemas na empresa Liberty Seguros.
+🔭 Atualmento sou __Analista de Sistemas__ na empresa __Liberty Seguros__.
 <br>
 😄 Pronome: ele/dele
 
