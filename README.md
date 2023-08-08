@@ -1,8 +1,9 @@
 ## Olá, bem vindo ao meu mundo no GIT
 ## Me chamo __Douglas__
 
--🔭 Atualmento sou Analista de Sistemas na empresa Liberty Seguros.
--😄 Pronome: ele/dele
+🔭 Atualmento sou Analista de Sistemas na empresa Liberty Seguros.
+<br>
+😄 Pronome: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
